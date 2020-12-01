@@ -1,0 +1,24 @@
+body{
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(31,19,85,1) 35%, rgba(65,5,97,1) 50%, rgba(0,212,255,1) 100%);
+}
+#myDIV {
+  width: 100%;
+  padding: 50px 0;
+  text-align: center;
+  background-color: ;
+  margin-top: 20px;
+  color: #39FF14;
+  display: none;
+}
+button {
+  margin-top: 150px;
+  margin-left: 620px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 20%;
+  background-color: #39FF14;
+  color: #0018A8;
+}
+.container {
+  margin-top: 45px;
+}

@@ -1,0 +1,39 @@
+body {
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(31,19,85,1) 35%, rgba(65,5,97,1) 50%, rgba(0,212,255,1) 100%);
+}
+.card1 {
+  padding-bottom: 50px;
+  padding-top: 50px;
+  margin-top: 10px;
+  margin-left: 620px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  text-align: center;
+  font-family: arial;
+  color: white;
+}
+.card2 {
+  padding-bottom: 50px;
+  padding-top: 50px;
+  margin-top: 0px;
+  margin-left: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  text-align: center;
+  font-family: arial;
+  color: white;
+}
+.card3 { 
+  padding-bottom: 50px;
+  padding-top: 50px;
+  margin-top: 0px;
+  margin-left: 1190px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  text-align: center;
+  font-family: arial;
+  color: white;
+}
+.container {
+  margin-top: 45px;
+}

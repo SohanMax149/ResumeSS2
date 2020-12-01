@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Skills</title>
+	<link rel="stylesheet" type="text/css" href="skills.css">
+</head>
+<body>
+<div class="container">
+<a href="index.html">
+<img src="back.png" width="70" height="60">
+</a>
+</div>
+<button onclick="myFunction()"><h2><strong>VIEW SKILLS</strong></h2></button>
+<div id="myDIV">
+<p>
+<ul>
+   <li><h2><strong>C,C++</strong></h2></li>
+   <br>
+   <li><h2><strong>HTML,CSS</strong></h2></li>
+   <br>
+   <li><h2><strong>Bootstrap</strong></h2></li>
+   <br>
+   <li><h2><strong>JavaScript</strong></h2></li>
+   <br>
+   <li><h2><strong>Jquery</strong></h2></li>
+   <br>
+   <li><h2><strong>Java</strong></h2></li>
+   <br>
+   <li><h2><strong>Python</strong></h2></li>
+   <br>
+   <li><h2><strong>Machine Learning</strong></h2></li>
+  </ul>
+ </p>
+</div>
+<script>
+function myFunction() {
+  var x = document.getElementById("myDIV");
+  if (window.getComputedStyle(x).display === "none") {
+    x.style.display = "block";
+  }
+}
+</script>
+</body>
+</html>

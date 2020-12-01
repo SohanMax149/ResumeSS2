@@ -1,0 +1,23 @@
+body{
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(31,19,85,1) 35%, rgba(65,5,97,1) 50%, rgba(0,212,255,1) 100%);
+}
+.card {
+  margin-top: 100px;
+  margin-left: 620px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  text-align: center;
+  font-family: arial;
+  color: white;
+}
+.title {
+  color: white;
+  font-size: 18px;
+}
+.container {
+  margin-top: 100px;
+  text-align: center;
+}
+.container1 {
+  margin-top: 75px;
+}
